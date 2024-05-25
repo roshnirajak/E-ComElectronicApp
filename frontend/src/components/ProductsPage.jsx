@@ -17,7 +17,7 @@ const ProductsPage = () => {
                             <a href="#">
                                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">₹300</h5>
                             </a>
-                            <p className="mb-3 text-lg text-gray-800 dark:text-gray-400">CX09-FLTUX IC </p>
+                            <p className="mb-3 text-lg text-gray-800 dark:text-gray-400">V59 A9PRO/A910F </p>
                         </div>
                     </div>
                 </Link>
@@ -32,7 +32,7 @@ const ProductsPage = () => {
                         <a href="#">
                             <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">₹300</h5>
                         </a>
-                        <p className="mb-3 text-lg text-gray-800 dark:text-gray-400">CX09-FLTUX IC </p>
+                        <p className="mb-3 text-lg text-gray-800 dark:text-gray-400">CX09-FSE6</p>
                     </div>
                 </div>
 
@@ -46,7 +46,7 @@ const ProductsPage = () => {
                         <a href="#">
                             <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">₹300</h5>
                         </a>
-                        <p className="mb-3 text-lg text-gray-800 dark:text-gray-400">CX09-FLTUX IC </p>
+                        <p className="mb-3 text-lg text-gray-800 dark:text-gray-400">CN204129176U </p>
                     </div>
                 </div>
 
